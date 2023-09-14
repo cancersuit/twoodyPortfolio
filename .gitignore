@@ -2,8 +2,3 @@
 !.gitignore
 /dist/
 !/dist/**/
-!/dist/**/*.css
-!/dist/**/*.js
-!/dist/**/*.jpg
-!/dist/**/*.png
-!/dist/**/*.html
