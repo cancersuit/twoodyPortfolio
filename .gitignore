@@ -1,6 +1,5 @@
 /*
 !.gitignore
-/dist/*
 !/dist/css/
 !/dist/images/
 !/dist/js/
